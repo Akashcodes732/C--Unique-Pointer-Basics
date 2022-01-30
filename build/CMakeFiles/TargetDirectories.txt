@@ -1,6 +1,0 @@
-/home/akash/CPP/CPP_Practice/UniquePointers/build/CMakeFiles/rebuild_cache.dir
-/home/akash/CPP/CPP_Practice/UniquePointers/build/CMakeFiles/edit_cache.dir
-/home/akash/CPP/CPP_Practice/UniquePointers/build/CMakeFiles/main.dir
-/home/akash/CPP/CPP_Practice/UniquePointers/build/Unique_ptr/CMakeFiles/edit_cache.dir
-/home/akash/CPP/CPP_Practice/UniquePointers/build/Unique_ptr/CMakeFiles/rebuild_cache.dir
-/home/akash/CPP/CPP_Practice/UniquePointers/build/Unique_ptr/CMakeFiles/Unique_ptr.dir

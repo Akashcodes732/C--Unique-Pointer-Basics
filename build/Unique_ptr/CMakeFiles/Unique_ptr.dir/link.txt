@@ -1,2 +1,0 @@
-/usr/bin/ar qc libUnique_ptr.a  CMakeFiles/Unique_ptr.dir/unique_ptr_test.cpp.o
-/usr/bin/ranlib libUnique_ptr.a
