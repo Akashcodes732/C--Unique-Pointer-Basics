@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/akash/CPP/CPP_Practice/UniquePointers/Unique_ptr/unique_ptr_test.cpp
+unique_ptr_test.h
+/home/akash/CPP/CPP_Practice/UniquePointers/Unique_ptr/unique_ptr_test.h
+
+/home/akash/CPP/CPP_Practice/UniquePointers/Unique_ptr/unique_ptr_test.h
+memory
+-
+iostream
+-
+

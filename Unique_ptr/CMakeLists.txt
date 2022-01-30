@@ -1,0 +1,1 @@
+add_library(Unique_ptr STATIC unique_ptr_test.cpp)
